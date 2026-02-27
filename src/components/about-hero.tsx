@@ -26,7 +26,7 @@ export default function AboutHero() {
         <AnimatePresence>
           <FadeUp key="title-greeting" duration={0.6}>
             <h1 className="text-5xl font-bold text-accent sm:text-6xl md:text-5xl lg:text-4xl xl:text-6xl">
-              Hi, I&apos;m Yubo Dong
+              Hi, I&apos;m Rafael Ortega
             </h1>
           </FadeUp>
           <FadeUp key="description-1" duration={0.6} delay={0.2}>

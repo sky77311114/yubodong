@@ -4,11 +4,11 @@ export const EDUCATION: ExperienceShowcaseListItemProps[] = [
   {
     title: "Bachelor of Computer Science",
     organisation: {
-      name: "National University of Singapore",
-      href: "https://nus.edu.sg/",
+      name: "New Mexico Institute of Mining and Technology",
+      href: "https://www.nmt.edu/",
     },
     date: "2013-2017",
-    location: "Outram campus, Singapore",
+    location: "Socorro, New Mexico, United States",
     description:
       "Relevant courses included Data Structures and Algorithms, Web Design, Cloud Computing, Artificial Neural Network and Database Management.",
   },

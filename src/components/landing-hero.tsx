@@ -39,7 +39,7 @@ export default function LandingHero() {
           <AnimatePresence>
             <FadeUp key="title-main" duration={0.6}>
               <h1 className="bg-accent bg-clip-text py-6 text-4xl font-bold text-transparent sm:text-5xl md:text-6xl xl:text-7xl">
-                Yubo Dong
+                Rafael Ortega
               </h1>
               <span className="text-xl font-semibold text-zinc-900 dark:text-zinc-100 md:text-3xl">
                 Senior Full Stack Software Engineer
@@ -49,8 +49,8 @@ export default function LandingHero() {
               <div className="mt-8 max-w-3xl text-base font-semibold text-zinc-900 dark:text-zinc-200 sm:text-base md:text-2xl">
                 <span className="text-xl text-accent sm:text-3xl">Hi</span>,
                 I&apos;m
-                <span className="text-accent"> Yubo Dong</span>I have been
-                working as software developer for over 10 years in different
+                <span className="text-accent"> Rafael Ortega</span>I have been
+                working as software developer for over 8 years in different
                 roles.
               </div>
             </FadeUp>

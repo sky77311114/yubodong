@@ -25,10 +25,13 @@ export default function Footer() {
           <a href="https://join.skype.com/invite/ohFFT17RHW7O" target="_blank">
             <SiSkype className="ContactIcon" />
           </a>
-          <a href="https://t.me/Yubo Dongroan" target="_blank">
+          <a href="https://t.me/Rafael Ortegaroan" target="_blank">
             <SiTelegram className="ContactIcon" />
           </a>
-          <a href="https://discordapp.com/users/Yubo Dongroan" target="_blank">
+          <a
+            href="https://discordapp.com/users/Rafael Ortegaroan"
+            target="_blank"
+          >
             <SiDiscord className="ContactIcon" />
           </a>
           <a href={`tel:+${siteMetadata.phone}`}>
@@ -37,7 +40,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="flex w-full flex-col items-center justify-between gap-8 text-center  md:flex-row md:justify-between lg:mx-auto lg:max-w-7xl">
-        <span className="text-foreground">©2025 Yubo Dong</span>
+        <span className="text-foreground">©2025 Rafael Ortega</span>
         <div className="flex gap-8">
           <a
             href={siteMetadata.github}

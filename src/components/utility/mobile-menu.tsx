@@ -58,7 +58,7 @@ export default function MobileMenu({
                 ))}
                 <ThemeSwitch setClose={setOpenMenu} />
               </div>
-              <div className="absolute bottom-0 py-6">©2025 Yubo Dong</div>
+              <div className="absolute bottom-0 py-6">©2025 Rafael Ortega</div>
             </Dialog.Panel>
           </Transition.Child>
         </div>
